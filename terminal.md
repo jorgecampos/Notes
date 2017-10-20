@@ -19,6 +19,6 @@
 ##General 
  
 * man : Manual de los comandos
-* man 1 :   
-* man 2 :
-* man 3 : 
+- man 1 :   
+- man 2 :
+- man 3 : 
