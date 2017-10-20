@@ -13,7 +13,7 @@
 * ~ : Mi directorio HOME 
 * . : Directorio actial 
 * .. : El directorio de arriba
-* - : A veces el fichero que representa a la terminal
+* "-" : A veces el fichero que representa a la terminal
 
 
 ##General 
