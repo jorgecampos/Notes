@@ -10,15 +10,15 @@
 
 ##Metacaracteres
 
-~ : Mi directorio HOME 
-. : Directorio actial 
-.. : El directorio de arriba
-- : A veces el fichero que representa a la terminal
+* ~ : Mi directorio HOME 
+* . : Directorio actial 
+* .. : El directorio de arriba
+* - : A veces el fichero que representa a la terminal
 
 
 ##General 
  
 * man : Manual de los comandos
-** man 1 :   
-** man 2 :
-** man 3 : 
+* man 1 :   
+* man 2 :
+* man 3 : 
