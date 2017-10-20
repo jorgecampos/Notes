@@ -13,6 +13,7 @@ siempre alerta estas.
 * mkdir : make directory
 * rmdir : remove directory (solo si esta vacio)
 * rm : remove.
+* mv : mueve o cambia de nombre un archivo
 * rm -rf : (**r**ecursivo **f**orce)
 * seq : Secuencia de numeros
 
@@ -39,3 +40,9 @@ siempre alerta estas.
 * git add -u (remuve delete files)
 * pull 
 * push (subir los cambios)
+
+##Otras 
+
+* wget : descarga desde una url
+* tr : translate 
+* -s : squeeze
