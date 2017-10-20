@@ -46,3 +46,5 @@ siempre alerta estas.
 * wget : descarga desde una url
 * tr : translate 
 * -s : squeeze
+* uniq -c : Deja filas unicas -c : cuenta
+* sort : ordena. -n : Númerico
