@@ -7,13 +7,33 @@
 * &lt; : redirigir la entrada.
 * &lt;&lt; : here document.
 * &lt;&lt;&lt; : here string.
+* 2> rederigir stderr
+* | : Pipe tuberia (usa en secreto un fichero anonimo)
+* Redireccion de copia => 
 
-##Metacaracteres
+## Sistemas de ficheros
 
 * ~ : Mi directorio HOME 
 * . : Directorio actial 
 * .. : El directorio de arriba
+
+* \* : secuencia de caracteres
+* ? : cualquier caracter
+* [] : conjunto de seleccion 
+* {} : combinaciones de secuencias
+
+##Metacaracteres
+
+* $ : Dime el valor de una variable
+
+### Opciones
+
 * "-" : A veces el fichero que representa a la terminal
+* 'space' : Partir palabras
+* \\ : secuencia de escape => Criptonita de los metacaracteres 
+* "" : quitan el porder de casi todos los metacaracteres menos al _$_
+* '' : quita todos los porderes a los de mas metacaracteres
+* \# : comentario
 
 
 ##General 
@@ -22,3 +42,21 @@
 - * man 1 :   
 - * man 2 :
 - * man 3 : 
+
+
+## Otros 
+
+ * \#! Shebang : Interprete con el que hay que ejecutar el archivo.
+ * !! : los ultimo comando /mohicano
+ * !\* : los ultimos parametros (en paris)
+
+
+##Operadores logicos
+
+ * && : AND 
+ * || : OR
+ * ! : NOT
+
+##Variable
+
+ * # : cantidad de parametros
