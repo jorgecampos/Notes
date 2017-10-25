@@ -1,6 +1,6 @@
 #Terminal 
 
-##Redirecciones
+## Redirecciones
 
 * &gt; : redireccion de salida.Crea un fichero.
 * &gt;&gt; : doble redireccion de salida anexa fichero.
@@ -22,7 +22,7 @@
 * [] : conjunto de seleccion 
 * {} : combinaciones de secuencias
 
-##Metacaracteres
+## Metacaracteres
 
 * $ : Dime el valor de una variable
 
@@ -36,7 +36,7 @@
 * \# : comentario
 
 
-##General 
+## General 
  
 * man : Manual de los comandos
 - * man 1 :   
@@ -51,12 +51,12 @@
  * !\* : los ultimos parametros (en paris)
 
 
-##Operadores logicos
+## Operadores logicos
 
  * && : AND 
  * || : OR
  * ! : NOT
 
-##Variable
+## Variable
 
  * # : cantidad de parametros
