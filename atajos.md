@@ -1,4 +1,4 @@
-#ATAJOS EN LINUX
+# ATAJOS EN LINUX
 
 En notación de Backus-Naur
 
