@@ -5,7 +5,7 @@ En notación de Backus-Naur
 
 ![Icono GDM] (./imagenes/sgdm.png Viva Gnome 3 Shell)
 
-##GNOME (3 shell)
+## GNOME (3 shell)
 
 - M : Panel lateral
 - C-q : Quitar un programa. 
@@ -17,7 +17,7 @@ En notación de Backus-Naur
 - M-↑ : maximizar la ventana.
 
 
-##Texto
+## Texto
 
 - C-+ : Aumentar la fuente.
 - C-- : Aumentar la fuente.
@@ -25,8 +25,8 @@ En notación de Backus-Naur
 - C-v : Pegar.
 - C-x : Cortar.
 - S-↑←→↓ : Subrayar de caracter en caracter
-
-##Terminal
+ 
+## Terminal
 
 * C-A-T 	   : Sacar la terminal.
 * C-S-T 	   : Sacar una nueva pestaña.
