@@ -6,7 +6,7 @@ comando head
 comando head
 siempre alerta estas. 
 ```
-##Gestor de archivos
+## Gestor de archivos
 
 * ls : list files.
 * cd: change directory.
@@ -19,13 +19,13 @@ siempre alerta estas.
 * touch : crea o actualiza un 
 
 
-##Comandos que unen 
+## Comandos que unen 
 
 * paste : Contactar archivos linea a linea (horizontal). 
 * cat : contactar archivos con la terminal (vertical).
 * join : combinaciones.
 
-##Comandos que dividen
+## Comandos que dividen
 
 * tail -2 : ultimas lineas del archivo.
 * tail -f : deja el fichero abierto.
@@ -33,7 +33,7 @@ siempre alerta estas.
 * cut : corta en vertical => cut -d" " -f1. 
 * split : divide en vertical.
 
-##Git 
+## Git 
 
 * clone (solo hacerlo la primera vez).
 * commit (subir los cambios).
@@ -43,7 +43,7 @@ siempre alerta estas.
 * pull : trae los los archivos desde la nube. 
 * push (subir los cambios).
 
-##Otras 
+## Otras 
 
 * wget : descarga desde una url.
 * tr : translate. 
@@ -52,8 +52,16 @@ siempre alerta estas.
 * sort : ordena. -n : Númerico.
 * bc : calculadora basica 
 * cal : calendario
-
-
+* rsyn : hace copias de seguridad (varios equipos)
+* date : muestra la fecha
+* mysqldump : volcado de la base de datos
+* history : muestra todos los comandos utilizados en la terminal.
+* fg <n> : trae un proceso a primer plano
+* job : lista todos los procesos detenidos
+* ps aux : Vemos los procesos        
+* kill <pid> : matamos el proceso
+* kill 9 <pid> : matar por la fuerza       
+       
 ## comandos que trabajan con texto 
 
 * grep : filtra.
@@ -62,7 +70,7 @@ siempre alerta estas.
 * vi : mejorado
 
        
-##Para buscar 
+## Para buscar 
 
 * find : busca ficheros. 
 * xargs : Ejecuta con argumentos
