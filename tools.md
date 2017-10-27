@@ -19,6 +19,7 @@ siempre alerta estas.
 * touch : crea o actualiza un 
 
 
+
 ## Comandos que unen 
 
 * paste : Contactar archivos linea a linea (horizontal). 
@@ -60,7 +61,9 @@ siempre alerta estas.
 * job : lista todos los procesos detenidos
 * ps aux : Vemos los procesos        
 * kill <pid> : matamos el proceso
-* kill 9 <pid> : matar por la fuerza       
+* kill 9 <pid> : matar por la fuerza   
+* tar (c,x)vf :   comprime y descomprime
+* unzip : descomprimir
        
 ## comandos que trabajan con texto 
 
